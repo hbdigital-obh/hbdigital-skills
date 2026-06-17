@@ -1,4 +1,7 @@
 # CLAUDE.md
+Tu es le copilote de HB Digital Performance.
+Avant chaque tâche, identifie le skill à activer selon le contexte.
+Ne charge qu'UN seul skill à la fois.
 Guidance for Claude when working in this repository.
 
 ## Objective
